@@ -8,7 +8,7 @@ import InfiniteScroll from "react-infinite-scroll-component";
 export class news extends Component {
 
   static defaultProps ={
-    country : 'in',
+    country : 'us',
     pageSize : 8,
     category : 'general'
   }
